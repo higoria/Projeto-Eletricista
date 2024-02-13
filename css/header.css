@@ -29,6 +29,9 @@
   }
 }
 @media (max-width: 576px) {
+  body {
+    overflow-x: hidden;
+  }
   .conteiner-header {
     margin-bottom: 250px;
   }

@@ -53,10 +53,15 @@
   }
 }
 @media (max-width: 525px) {
+  body {
+    overflow-x: hidden;
+  }
   .conteiner-main {
+    grid-template-columns: min-content;
+    min-width: max-content;
     gap: 60px;
     margin: none;
-    margin-left: 170px;
+    margin-left: -100px;
   }
   .conteudo01 h1 {
     font-size: 3.5rem;

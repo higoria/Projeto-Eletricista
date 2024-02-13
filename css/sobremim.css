@@ -66,6 +66,10 @@
   }
 }
 @media (max-width: 570px) {
+  body,
+  html {
+    overflow-x: hidden;
+  }
   .sobremim-conteudo-conteiner {
     margin-top: 200px;
     margin-bottom: 0px;
