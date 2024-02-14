@@ -39,7 +39,7 @@
 @media (max-width: 630px) {
   .conteiner-main {
     width: 100%;
-    padding-left: 100px;
+    padding-left: 150px;
     gap: 60px;
     margin: -80px;
   }
