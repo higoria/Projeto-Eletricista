@@ -38,6 +38,7 @@
 }
 @media (max-width: 630px) {
   .conteiner-main {
+    width: 100%;
     padding-left: 100px;
     gap: 60px;
     margin: -80px;
