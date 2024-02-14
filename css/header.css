@@ -33,11 +33,12 @@
     overflow-x: hidden;
   }
   .conteiner-header {
+    max-width: fit-content;
     margin-bottom: 250px;
   }
   .div-img img {
     width: 300px;
-    margin-right: -70px;
+    padding-left: 60px;
   }
   .modal {
     padding-top: 23px;

@@ -57,11 +57,10 @@
     overflow-x: hidden;
   }
   .conteiner-main {
-    grid-template-columns: min-content;
-    min-width: max-content;
+    grid-template-columns: 400px;
+    max-width: max-content;
     gap: 60px;
-    margin: none;
-    margin-left: -80px;
+    margin-left: -60px;
   }
   .conteudo01 h1 {
     font-size: 3.5rem;
