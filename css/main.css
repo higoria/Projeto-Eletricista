@@ -67,15 +67,11 @@
     padding-top: 36px;
   }
   .conteiner-main {
-    margin-top: -160px;
+    margin-top: -200px;
     grid-template-columns: 300px;
     width: 100%;
-    max-width: 100%;
-    min-width: 100%;
-    gap: 60px;
     margin-left: -30px;
     justify-content: center;
-    align-items: center;
   }
   .conteudo01 h1 {
     line-height: 60px;
@@ -91,6 +87,6 @@
   .conteudo02 img {
     width: 390px;
     max-width: max-content;
-    margin-left: -30px;
+    margin-top: -100px;
   }
 }

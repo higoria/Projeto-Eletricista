@@ -128,13 +128,16 @@
   }
 }
 @media (max-width: 576px) {
+  .conteiner-serviços {
+    margin-top: -200px;
+  }
   .coleçoes-imgs {
-    top: 540px;
+    top: 400px;
     position: absolute;
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 70px;
   }
   .coleçoes-imgs img {
     max-width: 300px;

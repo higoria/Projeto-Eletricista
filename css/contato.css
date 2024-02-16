@@ -122,18 +122,19 @@
 }
 @media (max-width: 1092px) {
   .conteiner-contato {
-    max-width: 900px;
+    margin-top: -200px;
     padding-left: 20px;
   }
   .textos p {
     padding-left: 0px;
   }
   .textos h1 {
+    margin-bottom: 40px;
     font-size: 4.2rem;
     line-height: 76px;
   }
   .email {
-    margin-top: 20px;
+    margin-top: 60px;
     margin-bottom: 30px;
   }
 }
