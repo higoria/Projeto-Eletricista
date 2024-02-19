@@ -69,8 +69,8 @@
   .conteiner-main {
     margin-top: -200px;
     grid-template-columns: 300px;
-    width: 100%;
-    margin-left: -30px;
+    width: 92%;
+    margin-left: -20px;
     justify-content: center;
   }
   .conteudo01 h1 {
@@ -86,7 +86,7 @@
   }
   .conteudo02 img {
     width: 390px;
-    max-width: max-content;
+    max-width: 300px;
     margin-top: -100px;
   }
 }
