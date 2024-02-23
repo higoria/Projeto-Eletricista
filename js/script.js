@@ -1,9 +1,9 @@
 import startDropDownMenu from "./dropDownMenu.js";
-
+import startTrocaDeImg from "./trocaDeImg.js";
 startDropDownMenu();
+startTrocaDeImg();
 
 // plugin anima.
-
 window.SimpleAnime = class {
   constructor() {
     (this.items = document.querySelectorAll("[data-anime]")), this.init();

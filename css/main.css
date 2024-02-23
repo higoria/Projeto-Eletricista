@@ -3,6 +3,8 @@
   grid-template-columns: 600px 600px;
   align-items: center;
   justify-content: center;
+  margin-top: -100px;
+  position: relative;
 }
 .conteudo01 h1 {
   font-size: 5.3rem;
@@ -60,15 +62,13 @@
   }
 }
 @media (max-width: 525px) {
-  body {
-    overflow-x: hidden;
-  }
   .modal {
+    width: 40px;
     padding-top: 36px;
   }
   .conteiner-main {
     margin-top: -200px;
-    grid-template-columns: 300px;
+    grid-template-columns: 250px;
     width: 92%;
     margin-left: -20px;
     justify-content: center;
